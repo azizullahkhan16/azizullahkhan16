@@ -42,7 +42,6 @@
 </p>
 
 ### 🧠 AI & Language Models
-### 🧠 AI & Language Models
 <p>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-3C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
