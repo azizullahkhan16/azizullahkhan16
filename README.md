@@ -17,7 +17,7 @@
 - Software Engineer, Infrastructure at **Data Science Dojo**, building and running the platform our LLM applications sit on: networking, observability, and multi-tenant billing.
 - Focused on **training and inference at scale**: fault-tolerant clusters, autoscaling GPU pools under agentic and long-context load, and observability that catches non-deterministic failures before users do.
 - I publish **reproducible systems-measurement research**, taking questions usually settled by assumption and answering them with hard numbers and open code (see below).
-- BS Computer Science, IBA Karachi, Magna Cum Laude, 3.76 CGPA.
+- BS Computer Science, IBA Karachi, 3.76 CGPA.
 - NVIDIA-Certified Associate: AI Infrastructure & Operations (NCA-AIIO), plus Azure DevOps Engineer Expert.
 - Previously: Backend Developer at Salsoft Technologies, and Teaching Assistant at IBA (Programming & OOP).
 
